@@ -1,0 +1,701 @@
+{
+  "ok-hand": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "👌 [ok-hand]",
+    "slug": "ok-hand",
+    "flag": {
+      "text": "Racist Symbol",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "👍",
+      "🆗",
+      "good",
+      "okay",
+      "or omit"
+    ],
+    "page": {
+      "date": "2020-02-13T10:00:40.680Z",
+      "inputPath": "./11ty/definitions/ok-hand.md",
+      "fileSlug": "ok-hand",
+      "filePathStem": "/definitions/ok-hand",
+      "url": "/definitions/ok-hand/",
+      "outputPath": "dist/definitions/ok-hand/index.html"
+    },
+    "html": "<hr>\n<p>title: 👌 [ok-hand]\nslug: ok-hand\nflag:\ntext: 'Racist Symbol'\nlevel: avoid\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>👍</li>\n<li>🆗</li>\n<li>good</li>\n<li>okay</li>\n<li>or omit</li>\n</ul>\n<hr>\n<p>hand gesture where right thumb and right index finger form a circle, remaining fingers fan out; in American Sign Language, gesture means number nine; in diving, gesture indicates “OK” as question or confirmation; gesture is used in an innocuous children's game called “<a href=\"https://www.vice.com/en_uk/article/wj8e74/searching-for-the-man-behind-the-circle-game\">The Circle Game</a>,” where the gesture is held low—if another child looks at it, they get punched.</p>\n<p>In 2017, the hand gesture was <a href=\"https://knowyourmeme.com/memes/ok-symbol-%F0%9F%91%8C\">appropriated by White Supremacists on 4chan</a> to mean White Power (the three fingers forming at 'W' and thumb and index forming the circle of the 'P'). It was framed as a hoax to &quot;own&quot; Leftists through trickery and <a href=\"#gaslighting\">gaslighting</a>.</p>\n<p>The hand gesture has been used by White Supremacists as a dogwhistle to identify other White Supremacists <a href=\"https://mashable.com/article/milo-yiannopoulos-banned-from-furry-convention/\">at rallies</a>, <a href=\"https://www.splcenter.org/hatewatch/2018/09/18/ok-sign-white-power-symbol-or-just-right-wing-troll\">in forums</a>, and even <a href=\"https://nypost.com/2019/03/15/suspected-new-zealand-shooter-appears-in-court/\">at court hearings</a>. In 2019, the hand gesture was added to the <a href=\"https://www.adl.org/news/press-releases/ok-and-other-alt-right-memes-and-slogans-added-to-adls-hate-symbols-database\">Anti-Defamation League's list of official symbols of hate</a>.</p>\n<h4>Issues</h4>\n<p>While it can be argued that the symbol's origins and many of its uses do not imply racist connotations, and that the 4chan-ers &quot;framed it as a hoax,&quot; it is undeniable that the symbol has evolved and become a gesture used sincerely by white supremacists.</p>\n<p>The uncertainty created by the 4chan-ers is a critical part of their strategy. The strategy employs plausible deniability: Because they self-identified it as a hoax, they can fall back on that explanation. Meanwhile, if people begin to adapt the symbol, as they did, it becomes a dogwhistle for White Supremacists. It should be noted that this approach of indoctrinating symbols of hate is one long-documented, and <a href=\"https://theconversation.com/how-nazis-twisted-the-swastika-into-a-symbol-of-hate-83020\">used for the Swastika as well</a>.</p>\n<h4>Impact</h4>\n<p>The people most vulnerable to the oppressive impact of White Supremacy will never know for certain if the symbol is being used in one of its non-violent manners or if it's being used in its racist violent manners. The oppressed must choose the option that protects them, which is typically erring on the side of caution.</p>\n<p>Continuing to use the symbol with its non-hateful connotations to &quot;take it back,&quot; does not eliminate its pervasive new meaning associated with White Supremacy. Instead, continuing usage only perpetuates emotional and psychological harm upon the most vulnerable and susceptible populations.</p>\n"
+  },
+  "ableism": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Ableism",
+    "slug": "ableism",
+    "defined": true,
+    "speech": "noun",
+    "page": {
+      "date": "2020-02-13T10:00:40.680Z",
+      "inputPath": "./11ty/definitions/ableism.md",
+      "fileSlug": "ableism",
+      "filePathStem": "/definitions/ableism",
+      "url": "/definitions/ableism/",
+      "outputPath": "dist/definitions/ableism/index.html"
+    },
+    "html": "<hr>\n<h2>title: Ableism\nslug: ableism\ndefined: true\nspeech: noun</h2>\n<p>a system that places value on people’s bodies and minds based on societally constructed ideas of normalcy, intelligence, excellence, and productivity. These constructed ideas are deeply rooted in anti-Blackness, eugenics, colonialism, and capitalism.</p>\n<p>— Talia &quot;TL&quot; Lewis</p>\n<h4>Impact</h4>\n<p>To paraphrase Lewis, ableism &quot;leads to people and society determining who is valuable and worthy based on a person’s appearance and/or their ability to [...] produce, excel, and 'behave.'&quot; You do not have to be disabled to experience ableism, and Disabled people can also reinforce ableism internally (manifesting as harm to themselves) and externally (harm to other disabled people).</p>\n<h4>Further reading</h4>\n<ul>\n<li><a href=\"https://www.talilalewis.com/blog/longmore-lecture-context-clarity-grounding\">Longmore Lecture: Context, Clarity &amp; Grounding</a></li>\n<li><a href=\"https://www.talilalewis.com/blog/ableism-2020-an-updated-definition\">Ableism 2020: An Updated Definition</a></li>\n</ul>\n"
+  },
+  "barbaric": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Barbaric",
+    "slug": "barbaric",
+    "flag": {
+      "text": "Neo-Colonial/Racist slur",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "adjective",
+    "reading": [
+      {
+        "text": "is the word barbarian a slur?",
+        "href": "https://seetobehumanityearth.wordpress.com/2015/07/16/is-the-term-barbarian-a-slur/"
+      },
+      {
+        "text": "Barbarian wiki",
+        "href": "https://en.wikipedia.org/wiki/Barbarian"
+      }
+    ],
+    "alt_words": [
+      "cruel",
+      "vicious",
+      "obscene",
+      "feral"
+    ],
+    "page": {
+      "date": "2020-02-13T10:00:40.680Z",
+      "inputPath": "./11ty/definitions/barbaric.md",
+      "fileSlug": "barbaric",
+      "filePathStem": "/definitions/barbaric",
+      "url": "/definitions/barbaric/",
+      "outputPath": "dist/definitions/barbaric/index.html"
+    },
+    "html": "<hr>\n<p>title: Barbaric\nslug: barbaric\nflag:\ntext: 'Neo-Colonial/Racist slur'\nlevel: 'avoid'\ndefined: true\nspeech: adjective\nreading:</p>\n<ul>\n<li>text: &quot;is the word barbarian a slur?&quot;\nhref: https://seetobehumanityearth.wordpress.com/2015/07/16/is-the-term-barbarian-a-slur/</li>\n<li>text: &quot;Barbarian wiki&quot;\nhref: https://en.wikipedia.org/wiki/Barbarian\nalt_words:</li>\n<li>cruel</li>\n<li>vicious</li>\n<li>obscene</li>\n<li>feral</li>\n</ul>\n<hr>\n<p>something which is obscenely cruel; primitive; unsophisticated</p>\n<h4>Issues</h4>\n<p>Barbarian originates from the Greek word <em>bárbaros</em> meaning &quot;babbler&quot;, to denote the &quot;unintelligible sounds&quot; (<em>&quot;bar bar bar&quot;</em>) made by foreign speakers.\nSimilar words exist in many other languages, for the identical purpose labeling a &quot;strange&quot;/&quot;foreign&quot; person/culture.</p>\n<p>In modern day usage, you can notice this rhetoric being employed almost always for the purpose of demonizing &quot;foreign&quot; (more often than not from the global south) cultures - cultures that need to be civilized;\ncultures that need to be colonized to rescue them from themselves. A perfect lingual weapon for warmongers and racists alike. Equally repulsive sibling of &quot;savage&quot;.</p>\n<h4>Impact</h4>\n<p>When you use words, that are in vogue primarily inside circles of bigots, with racist etymologies, it's a wilful act of violence, ignorance and an indication to the vilified and minoritised communities that their history of wounds and abuses are inconsequential to our words.</p>\n<h4>Usage Tip</h4>\n<p>Avoid words that have obscene etymologies. There is almost always a better alternative: an inclusive and a less hurtful one.</p>\n"
+  },
+  "bisexual": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Bisexual",
+    "slug": "bisexual",
+    "speech": "adj",
+    "defined": true,
+    "page": {
+      "date": "2020-02-13T09:56:58.196Z",
+      "inputPath": "./11ty/definitions/bisexual.md",
+      "fileSlug": "bisexual",
+      "filePathStem": "/definitions/bisexual",
+      "url": "/definitions/bisexual/",
+      "outputPath": "dist/definitions/bisexual/index.html"
+    },
+    "html": "<hr>\n<h2>title: Bisexual\nslug: bisexual\nspeech: adj\ndefined: true</h2>\n<p>of, relating to, or characterised by being sexually attracted to more than one gender.</p>\n<h4>Note</h4>\n<p>Bisexuality does not preclude attraction to <a href=\"#non-binary\">non-binary</a> or <a href=\"#transgender\">transgender</a> people.</p>\n<h4>Further Reading</h4>\n<p><a href=\"http://www.bisexualindex.org.uk/index.php/AmIBisexual\">Am I Bisexual?</a></p>\n"
+  },
+  "cisgender": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Cisgender",
+    "slug": "cisgender",
+    "speech": "adj",
+    "defined": true,
+    "page": {
+      "date": "2020-02-13T09:56:58.198Z",
+      "inputPath": "./11ty/definitions/cisgender.md",
+      "fileSlug": "cisgender",
+      "filePathStem": "/definitions/cisgender",
+      "url": "/definitions/cisgender/",
+      "outputPath": "dist/definitions/cisgender/index.html"
+    },
+    "html": "<hr>\n<h2>title: Cisgender\nslug: cisgender\nspeech: adj\ndefined: true</h2>\n<p>of, relating to, or characterised by being a gender that matches the gender they were assigned at birth.</p>\n<p>The opposite of <a href=\"/#transgender\">transgender</a>.</p>\n"
+  },
+  "crazy": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "crazy",
+    "slug": "crazy",
+    "flag": {
+      "text": "Ableist Slur",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "abundant",
+      "bizarre",
+      "enormous",
+      "ludicrous",
+      "outlandish",
+      "ridiculous",
+      "unbelievable",
+      "unexpected",
+      "unfamiliar",
+      "unreal",
+      "scary",
+      "shocking",
+      "strange",
+      "wicked"
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.199Z",
+      "inputPath": "./11ty/definitions/crazy.md",
+      "fileSlug": "crazy",
+      "filePathStem": "/definitions/crazy",
+      "url": "/definitions/crazy/",
+      "outputPath": "dist/definitions/crazy/index.html"
+    },
+    "html": "<hr>\n<p>title: crazy\nslug: crazy\nflag:\ntext: 'Ableist Slur'\nlevel: avoid\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>abundant</li>\n<li>bizarre</li>\n<li>enormous</li>\n<li>ludicrous</li>\n<li>outlandish</li>\n<li>ridiculous</li>\n<li>unbelievable</li>\n<li>unexpected</li>\n<li>unfamiliar</li>\n<li>unreal</li>\n<li>scary</li>\n<li>shocking</li>\n<li>strange</li>\n<li>wicked</li>\n</ul>\n<hr>\n<p>mentally deranged; demented; insane.</p>\n<h4>Issues</h4>\n<p>Crazy is very commonly used as an adjective to embody a vast array of ideas, often not specifically. It is used so frequently that it sometimes is a filler. Crazy can also be used in a derogatory manner for someone with mental or psychiatric disabilities.</p>\n<h4>Impact</h4>\n<p>By using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.</p>\n<h4>Usage Tip</h4>\n<p>Be more specific. Typically we can find an alternate definition by simply reflecting on what emotion we're really feeling.</p>\n"
+  },
+  "english-as-second-language": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "English as Second Language (ESL)",
+    "slug": "english-as-second-language",
+    "flag": {
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "English as learning-language (ELL)",
+      "or non-native",
+      "or omit (because do you really know, for sure?)"
+    ],
+    "reading": [
+      {
+        "href": "https://benchmarkeducation.com/best-practices-library/supporting-english-language-learners-in-reading-writing.html#section_2",
+        "text": "ELL Glossary by Benchmark Education"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.202Z",
+      "inputPath": "./11ty/definitions/english-as-second-language.md",
+      "fileSlug": "english-as-second-language",
+      "filePathStem": "/definitions/english-as-second-language",
+      "url": "/definitions/english-as-second-language/",
+      "outputPath": "dist/definitions/english-as-second-language/index.html"
+    },
+    "html": "<hr>\n<p>title: English as Second Language (ESL)\nslug: english-as-second-language\nflag:\nlevel: avoid\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>English as learning-language (ELL)</li>\n<li>or non-native</li>\n<li>or omit (because do you really know, for sure?)\nreading:</li>\n<li>href: https://benchmarkeducation.com/best-practices-library/supporting-english-language-learners-in-reading-writing.html#section_2\ntext: ELL Glossary by Benchmark Education</li>\n</ul>\n<hr>\n<p>the teaching of English to people who speak a different language and who live in a country where English is the main language spoken</p>\n<h4>Issues</h4>\n<p>Monolinguist, English-only speakers often refer to people who don't speak English natively as &quot;ESL&quot; or say they are learning a &quot;second language&quot;. More often than not, this is not true, as many people are multi-lingual with 3 or more languages</p>\n<h4>Impact</h4>\n<p>It makes false assumptions about English learners, centres English as the &quot;default&quot; or &quot;expected&quot; first language, ignoring that many people learn multiple (&gt;3), non-English languages first.</p>\n"
+  },
+  "fatphobia": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Fatphobia",
+    "slug": "fatphobia",
+    "defined": true,
+    "speech": "noun",
+    "skip_in_table_of_content": true,
+    "reading": [
+      {
+        "text": "Sizeism and Fatphobia",
+        "href": "https://www.srhweek.ca/providers/people-and-communities/sizeism-and-fatphobia/"
+      },
+      {
+        "text": "Anti-Oppression: Anti-Fatmisia",
+        "href": "https://simmons.libguides.com/anti-oppression/anti-fatmisia"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.204Z",
+      "inputPath": "./11ty/definitions/fatphobia.md",
+      "fileSlug": "fatphobia",
+      "filePathStem": "/definitions/fatphobia",
+      "url": "/definitions/fatphobia/",
+      "outputPath": "dist/definitions/fatphobia/index.html"
+    },
+    "html": "<hr>\n<p>title: Fatphobia\nslug: fatphobia\ndefined: true\nspeech: noun\nskip_in_table_of_content: true\nreading:</p>\n<ul>\n<li>text: Sizeism and Fatphobia\nhref: https://www.srhweek.ca/providers/people-and-communities/sizeism-and-fatphobia/</li>\n<li>text: 'Anti-Oppression: Anti-Fatmisia'\nhref: https://simmons.libguides.com/anti-oppression/anti-fatmisia</li>\n</ul>\n<hr>\n<p>the fear, hatred, and stigmitasation of fat people.</p>\n<h4>Issues</h4>\n<p>Fatphobia is the racialised, classist, and ableist tool of oppression that codifies a “ideal” body type that centres a white, Western aesthetic, demands time and resources that people may not have, and attempts to correlate thinness and heathliness—perpetuating white supremacist violence against people of colour, perpetuates classist oppression of people living with limited resources, and the ableist idea of healthiness as an indicator of human value.</p>\n<h4>Impact</h4>\n<p>A history of being ignored and shamed prevents many fat people from visiting medical professionals even if they have the financial and physical means to do so. Medical professionals hold fatphobic biases and often prescribe weight loss as a default instead of listening to their fat patients' concerns.</p>\n<p>Employers will pay fat employees less than their thin colleagues and offer them no protection from weight stigma in the workplace, as their fatphobic biases lead to their perception of fat employees as lazy, less intelligent, and unmotivated.</p>\n<p>Law enforcement officers are less likely to believe fat people reporting sexual assaults, as their fatphobic biases lead them to think of fat people as unattractive, not sexually active, or undesirable.</p>\n"
+  },
+  "gaslighting": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Gaslighting",
+    "slug": "gaslighting",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "Tool of Oppression"
+    },
+    "reading": [
+      {
+        "text": "11 warnings signs of gaslighting",
+        "href": "https://www.psychologytoday.com/us/blog/here-there-and-everywhere/201701/11-warning-signs-gaslighting"
+      },
+      {
+        "text": "Gaslighting examples",
+        "href": "https://www.aconsciousrethink.com/6766/gaslighting-examples/"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.204Z",
+      "inputPath": "./11ty/definitions/gaslighting.md",
+      "fileSlug": "gaslighting",
+      "filePathStem": "/definitions/gaslighting",
+      "url": "/definitions/gaslighting/",
+      "outputPath": "dist/definitions/gaslighting/index.html"
+    },
+    "html": "<hr>\n<p>title: Gaslighting\nslug: gaslighting\ndefined: true\nspeech: noun\nflag:\nlevel: tool\ntext: Tool of Oppression\nreading:</p>\n<ul>\n<li>text: '11 warnings signs of gaslighting'\nhref: https://www.psychologytoday.com/us/blog/here-there-and-everywhere/201701/11-warning-signs-gaslighting</li>\n<li>text: 'Gaslighting examples'\nhref: https://www.aconsciousrethink.com/6766/gaslighting-examples/</li>\n</ul>\n<hr>\n<p>psychological manipulation tactic used to abuse by instilling doubt in the victim's own thoughts, observations, feelings by denying, misdirecting, and lying to them; originated from the Gaslight play (1933) and film (1944), where a man changes the lights in the house, while denying her observations of the changes.</p>\n<h4>Impact</h4>\n<p>Gaslighting reinfoces systems of power, as gaslighting abusers will tend to be in systematically dominant positions where they are intrinsically believed over their victim (e.g., white person over person of colour, man over woman, abled person over disabled person, parent over child, manager over worker, etc). Gaslighting is an abusive and oppressive behaviour and tactic.</p>\n<p>The abuser can become in control of the victim, who now no longer trusts their own perception. The victim can become codependent upon their abuser, and internalise.</p>\n"
+  },
+  "minorities": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "minorities",
+    "slug": "minorities",
+    "flag": {
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "minoritised",
+      "or omit"
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.213Z",
+      "inputPath": "./11ty/definitions/minorities.md",
+      "fileSlug": "minorities",
+      "filePathStem": "/definitions/minorities",
+      "url": "/definitions/minorities/",
+      "outputPath": "dist/definitions/minorities/index.html"
+    },
+    "html": "<hr>\n<p>title: minorities\nslug: minorities\nflag:\nlevel: avoid\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>minoritised</li>\n<li>or omit</li>\n</ul>\n<hr>\n<p>the smaller in number of two groups constituting a whole</p>\n<h4>Issues</h4>\n<p>Minorities is not always accurate and is vague. As it deals with numbers, the term minorities can often be inaccurate, as is the case when speaking of communities of colour, who often outnumber white communities.</p>\n<p>By referring to a group as 'minorities,' it can suggest the group hasn't taken initiative to show up, thereby blaming the oppressed for systemic issues that prevent their participation.</p>\n<h4>Impact</h4>\n<p>By repeatedly referring to groups as &quot;minorities,&quot; they are being infantised to their numerical representation and made to feel minor. The vagueness also abstracts the identify of the marginalised group, making it difficult to address why they are minoritised to begin with.</p>\n"
+  },
+  "minoritised": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "minoritised",
+    "slug": "minoritised",
+    "defined": true,
+    "speech": "adj",
+    "flag": {
+      "level": "better-alternative",
+      "alt-for": "minorities"
+    },
+    "reading": [
+      {
+        "text": "Minority vs minoritze",
+        "href": "https://www.theodysseyonline.com/minority-vs-minoritize"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.213Z",
+      "inputPath": "./11ty/definitions/minoritised.md",
+      "fileSlug": "minoritised",
+      "filePathStem": "/definitions/minoritised",
+      "url": "/definitions/minoritised/",
+      "outputPath": "dist/definitions/minoritised/index.html"
+    },
+    "html": "<hr>\n<p>title: minoritised\nslug: minoritised\ndefined: true\nspeech: adj\nflag:\nlevel: better-alternative\nalt-for: minorities\nreading:</p>\n<ul>\n<li>text: Minority vs minoritze\nhref: https://www.theodysseyonline.com/minority-vs-minoritize</li>\n</ul>\n<hr>\n<p>groups resulting from social constructs have grant less power or representation compared to other members or groups in society</p>\n<h4>Benefits</h4>\n<p>Minoritised places the emphasis on the power struggle, and on the systemic issues at play. It's also an adjective, which requires you to add &quot;group&quot; or &quot;people&quot; so it's people-first language</p>\n<h4>Impact</h4>\n<p>It removes the pejorative nature of &quot;minorities&quot;.</p>\n"
+  },
+  "non-binary": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Non-binary",
+    "slug": "non-binary",
+    "speech": "adj",
+    "defined": true,
+    "page": {
+      "date": "2020-02-13T09:56:58.215Z",
+      "inputPath": "./11ty/definitions/non-binary.md",
+      "fileSlug": "non-binary",
+      "filePathStem": "/definitions/non-binary",
+      "url": "/definitions/non-binary/",
+      "outputPath": "dist/definitions/non-binary/index.html"
+    },
+    "html": "<hr>\n<h2>title: Non-binary\nslug: non-binary\nspeech: adj\ndefined: true</h2>\n<p>of, relating to, or characterised by being any gender that does not fit into the male-female gender binary; an umbrella term.</p>\n<p>For example, a non-binary person may have some gender between male and female, have multiple genders, no gender, a culturally-specific gender (e.g., two-spirit).</p>\n<h4>Note</h4>\n<p>Non-binary people may or may not also identify as <a href=\"/#transgender\">transgender</a>.</p>\n<p>Although non-binary is commonly used as an umbrella term, just because someone identifies as a term under the umbrella, does not necessarily imply that they identify as non-binary as well. For example, someone may be agender, but not identify with the term &quot;non-binary&quot;.</p>\n"
+  },
+  "obsessive-compulsive-disorder": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Obsessive Compulsive Disorder (OCD)",
+    "slug": "obsessive-compulsive-disorder",
+    "flag": {
+      "level": "avoid",
+      "text": "Medical Appropriation"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "conscientious",
+      "exact",
+      "fastidious",
+      "fussy",
+      "meticulous",
+      "nitpicky",
+      "particular",
+      "precise",
+      "quirky",
+      "thorough"
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.215Z",
+      "inputPath": "./11ty/definitions/obsessive-compulsive-disorder.md",
+      "fileSlug": "obsessive-compulsive-disorder",
+      "filePathStem": "/definitions/obsessive-compulsive-disorder",
+      "url": "/definitions/obsessive-compulsive-disorder/",
+      "outputPath": "dist/definitions/obsessive-compulsive-disorder/index.html"
+    },
+    "html": "<hr>\n<p>title: Obsessive Compulsive Disorder (OCD)\nslug: obsessive-compulsive-disorder\nflag:\nlevel: avoid\ntext: Medical Appropriation\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>conscientious</li>\n<li>exact</li>\n<li>fastidious</li>\n<li>fussy</li>\n<li>meticulous</li>\n<li>nitpicky</li>\n<li>particular</li>\n<li>precise</li>\n<li>quirky</li>\n<li>thorough</li>\n</ul>\n<hr>\n<p>a mental illness usually embodied by unwanted repeated thoughts (obsession) coupled with repeated behaviour, routine, or action (compulsion)</p>\n<h4>Issues</h4>\n<p>OCD is commonly misused to highlight personality quirks or fussiness, usually involving a preference for order or cleanliness. Use of 'OCD' as a noun or adjective in this manner diminishes the actual condition, resulting in reductive and over-normalised perception of a someone with these specific mental or psychiatric disabilities.</p>\n<h4>Impact</h4>\n<p>By conflating arbitrary quirks or behaviours with OCD, we are invalidating OCD as a medical condition and the people who experience it. Generally by using medically appropriative language, we are invalidating the existences of people with OCD, minimising their experiences, perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.</p>\n<h4>Usage Tip</h4>\n<p>Be more specific. Typically we can find an alternate definition by simply reflecting on what emotion we're really feeling. In this case, be particularly aware if the behaviour is actually unwanted or uncontrollable.</p>\n"
+  },
+  "pan-sexual": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Pansexual",
+    "slug": "pan-sexual",
+    "speech": "adj",
+    "defined": true,
+    "reading": [
+      {
+        "text": "Pansexuality and Being Pansexual: Everything You Need to Know",
+        "href": "https://www.teenvogue.com/story/what-is-pansexuality"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.217Z",
+      "inputPath": "./11ty/definitions/pansexual.md",
+      "fileSlug": "pansexual",
+      "filePathStem": "/definitions/pansexual",
+      "url": "/definitions/pansexual/",
+      "outputPath": "dist/definitions/pansexual/index.html"
+    },
+    "html": "<hr>\n<p>title: Pansexual\nslug: pan-sexual\nspeech: adj\ndefined: true\nreading:</p>\n<ul>\n<li>text: 'Pansexuality and Being Pansexual: Everything You Need to Know'\nhref: https://www.teenvogue.com/story/what-is-pansexuality</li>\n</ul>\n<hr>\n<p>someone who is sexually attracted to people regardless of their gender, or to people of any gender.</p>\n"
+  },
+  "performative-allyship": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "performative allyship",
+    "slug": "performative-allyship",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "White Supremacy Tool"
+    },
+    "reading": [
+      {
+        "text": "Are you practicing performative allyship?",
+        "href": "http://affinitymagazine.us/2017/07/09/are-you-practicing-performative-allyship/"
+      },
+      {
+        "text": "Is This Your Queen? Ellen Pompeo, Growth and Performative White Allyship",
+        "href": "https://www.theroot.com/is-this-your-queen-ellen-pompeo-growth-and-performati-1830593400"
+      },
+      {
+        "text": "Performative allyship: what it is, what it looks like, and why we want to avoid it.",
+        "href": "https://www.scarymommy.com/performative-allyship-what-it-is-what-it-looks-like-and-why-we-want-to-avoid-it/"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.218Z",
+      "inputPath": "./11ty/definitions/performative-allyship.md",
+      "fileSlug": "performative-allyship",
+      "filePathStem": "/definitions/performative-allyship",
+      "url": "/definitions/performative-allyship/",
+      "outputPath": "dist/definitions/performative-allyship/index.html"
+    },
+    "html": "<hr>\n<p>title: performative allyship\nslug: performative-allyship\ndefined: true\nspeech: noun\nflag:\nlevel: tool\ntext: White Supremacy Tool\nreading:</p>\n<ul>\n<li>text: 'Are you practicing performative allyship?'\nhref: http://affinitymagazine.us/2017/07/09/are-you-practicing-performative-allyship/</li>\n<li>text: 'Is This Your Queen? Ellen Pompeo, Growth and Performative White Allyship'\nhref: https://www.theroot.com/is-this-your-queen-ellen-pompeo-growth-and-performati-1830593400</li>\n<li>text: 'Performative allyship: what it is, what it looks like, and why we want to avoid it.'\nhref: https://www.scarymommy.com/performative-allyship-what-it-is-what-it-looks-like-and-why-we-want-to-avoid-it/</li>\n</ul>\n<hr>\n<p>when an individual or group of power/majority/privilege (e.g., white, male, abled, unqueer, etc) loudly profess(es) their actions in the name of 'allyship,' while actively conducting harm to, taking focus away from, and generally being unhelpful towards the group they claim to support, often to receive praise and attention, without taking critical action to dismantle the systems of harm.</p>\n<h4>Impact</h4>\n<p>Performative allyship detracts from the stories of the oppressed and the impact that oppression has on them in favour of the stories of the oppressors and their intent to help. The cost of performative allyship can also be that the stories of the oppressed people are appropriated, watered down, and inaccurately retold by people who should not be telling those stories.</p>\n"
+  },
+  "polyamory": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Polyamory",
+    "slug": "polyamory",
+    "speech": "noun",
+    "defined": true,
+    "reading": [
+      {
+        "text": "My definition of polyamory",
+        "href": "https://avris.it/blog/my-definition-of-polyamory"
+      },
+      {
+        "text": "Poly Glossary",
+        "href": "https://www.polymatchmaker.com/main.mvc?Screen=HTML&Page=polyglossary"
+      },
+      {
+        "text": "http://polyliving.net/",
+        "href": "http://polyliving.net/"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.218Z",
+      "inputPath": "./11ty/definitions/polyamory.md",
+      "fileSlug": "polyamory",
+      "filePathStem": "/definitions/polyamory",
+      "url": "/definitions/polyamory/",
+      "outputPath": "dist/definitions/polyamory/index.html"
+    },
+    "html": "<hr>\n<p>title: Polyamory\nslug: polyamory\nspeech: noun\ndefined: true\nreading:</p>\n<ul>\n<li>text: 'My definition of polyamory'\nhref: https://avris.it/blog/my-definition-of-polyamory</li>\n<li>text: 'Poly Glossary'\nhref: https://www.polymatchmaker.com/main.mvc?Screen=HTML&amp;Page=polyglossary</li>\n<li>text: 'http://polyliving.net/'\nhref: http://polyliving.net/</li>\n</ul>\n<hr>\n<p>belief that romantic and/or sexual exclusivity is not necessary for a happy, committed relationship; an umbrella term for various types of relationships where all partners involved consent to non-monogamy, such as open relationships, polycules, throuples, group marriages, etc.</p>\n<h4>Note</h4>\n<p>One can be polyamorous despite currently being single or in a monogamous relationship.</p>\n"
+  },
+  "spaz": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Spaz",
+    "slug": "spaz",
+    "flag": {
+      "text": "Ableist Slur",
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "hyper",
+      "anxious",
+      "jumpy",
+      "unable to focus"
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.223Z",
+      "inputPath": "./11ty/definitions/spaz.md",
+      "fileSlug": "spaz",
+      "filePathStem": "/definitions/spaz",
+      "url": "/definitions/spaz/",
+      "outputPath": "dist/definitions/spaz/index.html"
+    },
+    "html": "<hr>\n<p>title: Spaz\nslug: spaz\nflag:\ntext: 'Ableist Slur'\nlevel: avoid\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>hyper</li>\n<li>anxious</li>\n<li>jumpy</li>\n<li>unable to focus</li>\n</ul>\n<hr>\n<p>irrationally nervous person; hyperactive</p>\n<h4>Issues</h4>\n<p>The origin of the word “Spaz” is a shortened version of “Spastic.” Spastic refers to an alteration in muscle tone affected by the medical condition spasticity, which is seen in spastic diplegia and many other forms of cerebral palsy.</p>\n<h4>Impact</h4>\n<p>By using ableist language, we are perpetuating violence against people who experience mental or psychological disabilities. Using this language perpetuates those systems and language of harm, regardless of our intent.</p>\n<h4>Usage Tip</h4>\n<p>Be more specific. Typically we can find an alternate definition by simply reflecting on what emotion we're really feeling.</p>\n"
+  },
+  "transgender": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "Transgender",
+    "slug": "transgender",
+    "speech": "adj",
+    "defined": true,
+    "page": {
+      "date": "2020-02-13T09:56:58.225Z",
+      "inputPath": "./11ty/definitions/transgender.md",
+      "fileSlug": "transgender",
+      "filePathStem": "/definitions/transgender",
+      "url": "/definitions/transgender/",
+      "outputPath": "dist/definitions/transgender/index.html"
+    },
+    "html": "<hr>\n<h2>title: Transgender\nslug: transgender\nspeech: adj\ndefined: true</h2>\n<p>of, relating to, or characterised by a gender that does not match the gender they were assigned at birth.</p>\n<p>The opposite of <a href=\"/#cisgender\">cisgender</a>.</p>\n"
+  },
+  "unreal": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "unreal",
+    "slug": "unreal",
+    "defined": true,
+    "speech": "adj",
+    "page": {
+      "date": "2020-02-13T09:56:58.226Z",
+      "inputPath": "./11ty/definitions/unreal.md",
+      "fileSlug": "unreal",
+      "filePathStem": "/definitions/unreal",
+      "url": "/definitions/unreal/",
+      "outputPath": "dist/definitions/unreal/index.html"
+    },
+    "html": "<hr>\n<h2>title: unreal\nslug: unreal\ndefined: true\nspeech: adj</h2>\n<p>very impressive; amazing; larger or more fantastic than typical of real life.</p>\n"
+  },
+  "white-fragility": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "White Fragility",
+    "slug": "white-fragility",
+    "defined": true,
+    "speech": "noun",
+    "flag": {
+      "level": "tool",
+      "text": "White Supremacy Tool"
+    },
+    "reading": [
+      {
+        "text": "White Fragility by Robin DiAngelo",
+        "href": "https://robindiangelo.com/publications/"
+      },
+      {
+        "text": "White Fragility tag on The Root",
+        "href": "https://www.theroot.com/tag/white-fragility"
+      }
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.227Z",
+      "inputPath": "./11ty/definitions/white-fragility.md",
+      "fileSlug": "white-fragility",
+      "filePathStem": "/definitions/white-fragility",
+      "url": "/definitions/white-fragility/",
+      "outputPath": "dist/definitions/white-fragility/index.html"
+    },
+    "html": "<hr>\n<p>title: White Fragility\nslug: white-fragility\ndefined: true\nspeech: noun\nflag:\nlevel: tool\ntext: White Supremacy Tool\nreading:</p>\n<ul>\n<li>text: 'White Fragility by Robin DiAngelo'\nhref: https://robindiangelo.com/publications/</li>\n<li>text: 'White Fragility tag on The Root'\nhref: https://www.theroot.com/tag/white-fragility</li>\n</ul>\n<hr>\n<p>the tendency for dominant white culture to respond to racism with defensive, dismissive, and angry responses; “a state in which even a minimum amount of racial stress becomes intolerable, triggering a range of defensive moves.” (Robin DiAngelo).</p>\n<h4>Impact</h4>\n<p>White fragility detracts from critical conversations about the systemic oppressors at play. The cost of white fragility is that it centres the feelings of white people while ignoring and invalidating the systemic harm conducted towards people of colour. White fragility also prevents white people from doing anti-racist work to unpack their socially internalised racism.</p>\n"
+  },
+  "women-and-people-of-colour": {
+    "metadata": {
+      "title": "Self-Defined",
+      "url": "https://www.selfdefined.app/",
+      "description": "A modern dictionary about us. We define our words, but they don't define us.",
+      "author": {
+        "name": "Tatiana & the Crew",
+        "email": "info@selfdefined.app"
+      }
+    },
+    "title": "women and people of colour",
+    "slug": "women-and-people-of-colour",
+    "flag": {
+      "level": "avoid"
+    },
+    "defined": true,
+    "speech": "noun",
+    "alt_words": [
+      "people of colour and white women",
+      "people of colour",
+      "white non-binary people, and white women",
+      "find ways to reframe why this dynamic exists",
+      "or omit"
+    ],
+    "page": {
+      "date": "2020-02-13T09:56:58.228Z",
+      "inputPath": "./11ty/definitions/women-and-people-of-colour.md",
+      "fileSlug": "women-and-people-of-colour",
+      "filePathStem": "/definitions/women-and-people-of-colour",
+      "url": "/definitions/women-and-people-of-colour/",
+      "outputPath": "dist/definitions/women-and-people-of-colour/index.html"
+    },
+    "html": "<hr>\n<p>title: women and people of colour\nslug: women-and-people-of-colour\nflag:\nlevel: avoid\ndefined: true\nspeech: noun\nalt_words:</p>\n<ul>\n<li>people of colour and white women</li>\n<li>people of colour</li>\n<li>white non-binary people, and white women</li>\n<li>find ways to reframe why this dynamic exists</li>\n<li>or omit</li>\n</ul>\n<hr>\n<p>often used as a phrase to encompass “non-white, non-men,” seeking to provide solidarity for these two groups</p>\n<h4>Issues</h4>\n<p>What happens to women of colour? As a woman of colour, I am split between both women and people of colour.</p>\n<h4>Impact</h4>\n<p>As such, it elicits feelings of erasure for women of colour. It also neglects <a href=\"/#non-binary\">non-binary</a> individuals.</p>\n"
+  }
+}

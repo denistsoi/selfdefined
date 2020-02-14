@@ -174,7 +174,7 @@ module.exports = function (config) {
 
     // write api.json to dist
     require("fs")
-      .writeFile("./dist/api.json", JSON.stringify(definedWords, null, 2), (err, ok) => {
+      .writeFile("./functions/data.json", JSON.stringify(definedWords, null, 2), (err, ok) => {
         console.log(err, ok)
       })
 

@@ -1,4 +1,4 @@
-const data = require("../dist/api.json")
+const data = require("./data.json")
 
 exports.handler = async (event, context) => {
 
