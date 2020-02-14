@@ -2,7 +2,7 @@ const makeItemLink = (slug) => `#${slug}`;
 const findExistingDefinition = (word, collection) =>
   collection.find((item) => item.data.title === word);
 
-module.exports = function(config) {
+module.exports = function (config) {
   // Add a filter using the Config API
   config.addFilter('linkTarget', makeItemLink);
 
@@ -34,7 +34,7 @@ module.exports = function(config) {
   });
 
   // just a debug filter to lazily inspect the content of anything in a template
-  config.addFilter('postInspect', function(post) {
+  config.addFilter('postInspect', function (post) {
     console.log(post);
   });
 
@@ -146,7 +146,7 @@ module.exports = function(config) {
   });
 
   config.addCollection('definedWords', (collection) => {
-    return collection
+    const definedWordsCollection = collection
       .getFilteredByGlob('./11ty/definitions/*.md')
       .filter((word) => word.data.defined)
       .sort((a, b) => {
@@ -155,6 +155,30 @@ module.exports = function(config) {
           .toLowerCase()
           .localeCompare(b.data.title.toLowerCase());
       });
+
+
+    const transformTemplate = word => {
+      const { pkg, ...data } = word.template.dataCache
+      return {
+        ...data,
+        html: require("markdown-it")().render(word.template.inputContent)
+      }
+    }
+
+    const definedWords = definedWordsCollection.reduce((object, word) => {
+      return {
+        ...object,
+        [word.data.slug]: transformTemplate(word),
+      };
+    }, {});
+
+    // write api.json to dist
+    require("fs")
+      .writeFile("./dist/api.json", JSON.stringify(definedWords, null, 2), (err, ok) => {
+        console.log(err, ok)
+      })
+
+    return definedWordsCollection
   });
 
   const mdIt = require('markdown-it')({
